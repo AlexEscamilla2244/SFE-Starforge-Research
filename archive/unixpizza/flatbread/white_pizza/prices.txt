@@ -1,0 +1,7 @@
+# large small pie
+17.25 12.00 cheeseherb
+22.75 14.75 sausage
+23.50 15.50 mopsys
+22.50 14.50 pe
+23.50 15.50 southwest
+23.50 15.50 ranch
