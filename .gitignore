@@ -1,7 +1,10 @@
+# Ignore large data folder
+data/
+
+#common Python ignores
 __pycache__/
 *.pyc
 .env
 .venv/
 .ipynb_checkpoints/
 .DS_Store
-data/
